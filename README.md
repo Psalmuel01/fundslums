@@ -4,9 +4,9 @@ Earlier last month, I designed this project using figma for an hackathon I parti
 
 Now that I've learnt more about frontend end, I coded out my design
 
-Live site: psalmuel01.github.io/fundslums
+Live site: https://github.com/Fasina-ayomikun/Fund-Slums
 
-Not yet mobile responsive
+Not yet mobile responsive, and no backend functionality here.
 
 Fundslums is a charity website to help slum kids
 
