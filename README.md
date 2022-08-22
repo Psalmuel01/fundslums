@@ -4,7 +4,7 @@ Earlier last month, I designed this project using figma for an hackathon I parti
 
 Now that I've learnt more about frontend end, I coded out my design
 
-Live site: https://github.com/Fasina-ayomikun/Fund-Slums
+Live site: https://psalmuel01.github.io/fundslums
 
 Not yet mobile responsive, and no backend functionality here.
 
