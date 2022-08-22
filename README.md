@@ -3,7 +3,10 @@
 Earlier last month, I designed this project using figma for an hackathon I participated in, with a team of 2 developers.
 
 Now that I've learnt more about frontend end, I coded out my design
-(live site: psalmuel01.github.io/fundslums)
+
+Live site: psalmuel01.github.io/fundslums
+
+Not yet mobile responsive
 
 Fundslums is a charity website to help slum kids
 
